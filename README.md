@@ -1,10 +1,10 @@
 # Petar-Bunev
 About me
 
-<h1 align="center">Languages and Tools I use:</h3>
+<h2 align="center">Languages and Tools I use:</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepibunev" alt="pepibunev" /></p>
 
-<h1 align="center">Certificates 
+<h2 align="center">Certificates</h2> 
 <table align="center">
 
 <tr>
@@ -44,4 +44,4 @@ About me
   </table>
   </tr>
 </td>
-</h1>
+
