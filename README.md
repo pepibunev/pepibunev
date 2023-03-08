@@ -36,9 +36,9 @@ About me
  Grade: 5.39 (out of 6.00)<br /> Issue Date: 21/02/2023</th>
  
   ---------------------------------------------------------------------------------
-| **Course**                                                            |                                                   |
+| **Course**                                                            |                                                  
 | --------------------------------------------------------------------- | 
-| <a href="https://softuni.bg/courses/js-applications" > Javascript Applications </a>        | 
+| <a href="https://softuni.bg/courses/js-applications" > Javascript Applications </a>        
   
   </table>
   </tr>
