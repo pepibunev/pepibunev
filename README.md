@@ -1,5 +1,9 @@
-# Petar-Bunev
-About me
+<div>
+ <h1 align="center">Hi I'm Petar-Bunev
+ </h1>
+ <h2 align="center">and this is short information about me
+ </h2>
+</div>
 
 <h2 align="center">Languages and Tools I use:</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepibunev" alt="pepibunev" /></p>
