@@ -1,6 +1,6 @@
 <div align="center">
-  <div height="40" width="40">Hi I'm Petar-Bunev</div>
-  <div height="40" width="40">and this is short information about me</div>
+  <div height="70" width="70">Hi I'm Petar-Bunev</div>
+  <div height="55" width="55">and this is short information about me</div>
 </div>
 
 <h2 align="center">Languages and Tools I use:</h2>
