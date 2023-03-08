@@ -15,7 +15,7 @@ About me
 
 | **Course**                                                            | 
 | --------------------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4001/programming-basics-with-javascript-march-2023" > Programming Basics with Javascript </a> <img src"https://softuni.bg/certificates/details/137476/71e3fc36" width="100" height="100"/>
+| <a href="https://softuni.bg/trainings/4001/programming-basics-with-javascript-march-2023" > Programming Basics with Javascript </a>
 
   Grade: 6.00 (out of 6.00)<br /> Issue Date: 19/07/2022</th>
   
