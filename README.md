@@ -4,7 +4,7 @@ About me
 <h1 align="center">Languages and Tools I use:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepibunev" alt="pepibunev" /></p>
 
-<h1 align="center">Certificates </h1>
+<h1 align="center">Certificates 
 <table align="center">
 
 <tr>
@@ -44,3 +44,4 @@ About me
   </table>
   </tr>
 </td>
+</h1>
