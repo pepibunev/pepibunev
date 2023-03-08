@@ -1,8 +1,6 @@
 <div align="center">
- <h1>Hi I'm Petar-Bunev
-  <h2>and this is short information about me
-  </h2>
- </h1>
+  <div height="40" width="40">Hi I'm Petar-Bunev</div>
+  <div height="40" width="40">and this is short information about me</div>
 </div>
 
 <h2 align="center">Languages and Tools I use:</h2>
