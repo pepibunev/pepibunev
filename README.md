@@ -1,5 +1,5 @@
 <div align="center">
-  <div height="70" width="70">Hi I'm Petar-Bunev</div>
+  <div height="200" width="200">Hi I'm Petar-Bunev</div>
   <div height="55" width="55">and this is short information about me</div>
 </div>
 
