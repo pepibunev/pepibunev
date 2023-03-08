@@ -1,8 +1,8 @@
-<div>
- <h1 align="center">Hi I'm Petar-Bunev
+<div align="center">
+ <h1>Hi I'm Petar-Bunev
+  <h2>and this is short information about me
+  </h2>
  </h1>
- <h2 align="center">and this is short information about me
- </h2>
 </div>
 
 <h2 align="center">Languages and Tools I use:</h2>
