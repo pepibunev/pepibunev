@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Petar Bunev</h1>
-                                                  - 🌱 I’m currently learning **Javascript at SoftUni**
+- 🌱 I’m currently learning **Javascript at SoftUni**
 
-                                                    - 📫 How to reach me **peterbunev9@gmail.com**
+- 📫 How to reach me **peterbunev9@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
