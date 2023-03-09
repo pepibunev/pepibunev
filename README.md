@@ -18,6 +18,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pepibunev&" alt="pepibunev" /></p>
 
+<h2>Certificates</h2>
 <table align="center">
 <tr>
  <th> Javascript - Node </th>
