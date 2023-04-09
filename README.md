@@ -53,6 +53,8 @@
 | --------------------------------------------------------------------- | 
 | <a href="https://softuni.bg/courses/js-applications" > Javascript Applications </a>        
   
+  Grade: 6.00 (out of 6.00)<br /> Issue Date: 04/04/2023</th>
+  
   </table>
   </tr>
 </td>
